@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtuelle Umgebungen
+.venv/
+venv/
+env/
+
+# Betriebssystem / Editor
+.DS_Store
+__MACOSX/
+.vscode/
+.idea/
